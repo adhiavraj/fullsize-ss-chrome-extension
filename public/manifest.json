@@ -8,7 +8,6 @@
     "activeTab",
     "scripting",
     "nativeMessaging",
-    "tabCapture",
     "downloads"
   ],
   "host_permissions": [
